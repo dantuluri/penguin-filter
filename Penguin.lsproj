@@ -1,0 +1,638 @@
+{
+    "lens_id": "891ea05c-05eb-42ab-9f3b-bd4282784051",
+    "version": "0",
+    "lastChanged": "1515567962910",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Textures"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1498868548554305:767",
+                    "1508884415036595:113880"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_path": "icon.png",
+            "hints": "",
+            "lens": "Static Object"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mesh.fbx",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/GroundGrid.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mat.mat",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1502830760689594:60799",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/var\/folders\/nd\/9vg2b63x7sz3ny4j8bcrnpvr0000gn\/T\/Studio3D-1JFZ7i\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1508885097330183:132242",
+                    "name": "\/Resources\/Resource148.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Documents\/TouchCollisionCube.fbx",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1510687041464881:18334",
+                    "name": "\/Resources\/Resource157.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy\/trophy_02.fbx",
+                    "additionalProperties": {
+                        "name": "trophy"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1510687140422169:18756",
+                    "name": "\/Resources\/Resource159.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy\/trophy_02_lambert1_materialParams.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1510687140556884:18765",
+                    "name": "\/Resources\/Resource160.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy\/trophy_02_lambert1_normal.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1510687316698085:19056",
+                    "name": "\/Resources\/Resource171.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Lens Studio\/envmaps\/speakeasy_2939789583_diff.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1510687316714742:19065",
+                    "name": "\/Resources\/Resource172.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Lens Studio\/envmaps\/speakeasy_2939789583_spec.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1510853662796593:7374",
+                    "name": "\/Resources\/Resource173.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Downloads\/trophy_02_lambert1_base.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1511403648791631:290790",
+                    "name": "\/Resources\/Resource174",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1511403648794329:290802",
+                    "name": "\/Resources\/Resource175.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1511403791848190:291597",
+                    "name": "\/Resources\/Resource176",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "178",
+                    "uid": "1511403879869353:292427",
+                    "name": "\/Resources\/Resource178",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "179",
+                    "uid": "1515566743058335:6045",
+                    "name": "\/Resources\/Resource179",
+                    "sourceFilePath": "\/Users\/surya\/Downloads\/Copy of club penguin\/tinker.obj",
+                    "additionalProperties": {
+                        "name": ""
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1515566743125735:6056",
+                    "name": "\/Resources\/Resource181.mesh",
+                    "sourceFilePath": "\/Users\/surya\/Downloads\/Copy of club penguin\/tinker.obj",
+                    "additionalProperties": {
+                        "name": "group_0_undefined"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1515567018952930:7580",
+                    "name": "\/Resources\/Resource182.mp3",
+                    "sourceFilePath": "\/Users\/surya\/Downloads\/thomas.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1515567427097889:14999",
+                    "name": "\/Resources\/Resource184.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1510687041436767:18328",
+                "3": "1510687407760041:19246",
+                "4": "1510687744155854:20850",
+                "5": "1511403648788540:290784",
+                "6": "1515566743116093:6052",
+                "7": "1515567489620867:16131"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "base",
+                                "resourceId": "40",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_diff",
+                                "resourceId": "171",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_spec",
+                                "resourceId": "172",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "148",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "175",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "174",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "176",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trophy [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_pbr",
+                                        "resourceId": "178",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy",
+                                        "resourceId": "157",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_02_lambert1_materialParams",
+                                        "resourceId": "159",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_normal",
+                                        "resourceId": "160",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_base",
+                                        "resourceId": "173",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "tinker",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Resource179",
+                                        "resourceId": "179",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "group_0_undefined",
+                                        "resourceId": "181",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Script",
+                                "resourceId": "184",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "thomas",
+                        "resourceId": "182",
+                        "extension": "mp3"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Textures\/base.png"
+                },
+                {
+                    "id": "148",
+                    "path": "Meshes\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "157",
+                    "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
+                },
+                {
+                    "id": "159",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
+                },
+                {
+                    "id": "160",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
+                },
+                {
+                    "id": "171",
+                    "path": "Textures\/speakeasy_diff.png"
+                },
+                {
+                    "id": "172",
+                    "path": "Textures\/speakeasy_spec.png"
+                },
+                {
+                    "id": "173",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
+                },
+                {
+                    "id": "175",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "181",
+                    "path": "tinker\/Meshes\/group_0_undefined.mesh"
+                },
+                {
+                    "id": "182",
+                    "path": "thomas.mp3"
+                },
+                {
+                    "id": "184",
+                    "path": "tinker\/Script.js"
+                }
+            ]
+        }
+    }
+}
